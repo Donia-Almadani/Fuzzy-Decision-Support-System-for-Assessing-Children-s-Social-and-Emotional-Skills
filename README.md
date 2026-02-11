@@ -15,8 +15,8 @@ system using machine learning.
 
 - INT_01_ST_SELSkills(1).xlsx  # The dataset from the OECD Survey on Social and Emotional Skills
 - ppval (1).py Social Skills Assessment
-- fuzzy-model.py  # Fuzzy Model Code 
-- analysis_result.py  #Fuzzy model result analysis
+- fuzzy-model.py  # Fuzzy Model 
+- analysis_result.py  #Fuzzy Model Result Analysis
 - ml_validation.py  # Machine Learning validation
   
 ---
